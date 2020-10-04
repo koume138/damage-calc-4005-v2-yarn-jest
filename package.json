@@ -17,7 +17,7 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^25.1.0",
-    "jest-junit": "^11.1.0"
+    "jest-junit": "10.0.0"
   },
   "dependencies": {
     "execa": "^4.0.3"
