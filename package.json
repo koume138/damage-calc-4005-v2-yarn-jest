@@ -20,6 +20,6 @@
     "jest-junit": "^11.1.0"
   },
   "dependencies": {
-    "execa": "3.4.0"
+    "execa": "^4.0.3"
   }
 }
